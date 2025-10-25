@@ -1,0 +1,10 @@
+# virtual environment
+venv/
+__pycache__/
+
+# local settings
+.env
+.env.production
+
+# system files
+.DS_Store
